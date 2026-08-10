@@ -150,7 +150,7 @@ export default function App() {
               <h1>Bisection Method Calculator</h1>
               <p className="subtitle">
                 Kindly enter the equation in terms of x. Also, input the lower and upper limit, and the tolerance. 
-                Click the Calculate button once done.
+                Click the "Calculate" button once done.
               </p>
             </div>
 
