@@ -10,7 +10,7 @@ A web-based calculator for solving nonlinear equations using the Bisection Metho
 * Calculate the root using the Bisection Method
 * Display iteration results
 
-## Technologies
+## Techstack
 
 * Python
 * Flask
